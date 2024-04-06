@@ -85,9 +85,6 @@ int main()
 ```
 
 
-
-
-
 # OUTPUT:
 
 ![image](https://github.com/Pooja-sri45/Linux-IPC-Message-Queues/assets/147081893/3f0aa9d6-741b-4b75-8cd4-daca85824934)
